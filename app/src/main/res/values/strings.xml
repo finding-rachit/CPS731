@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">rachitAssignment3</string>
+    
+    <string-array name="recipes">
+        <item>Recipe 1</item>
+        <item>Recipe 2</item>
+        <item>Recipe 3</item>
+        <item>Recipe 4</item>
+        <item>Recipe 5</item>
+        <item>Recipe 6</item>
+        <item>Recipe 7</item>
+        <item>Recipe 8</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Recipe 1 - Description</item>
+        <item>Recipe 2 - Description</item>
+        <item>Recipe 3 - Description</item>
+        <item>Recipe 4 - Description</item>
+        <item>Recipe 5 - Description</item>
+        <item>Recipe 6 - Description</item>
+        <item>Recipe 7 - Description</item>
+        <item>Recipe 8 - Description</item>
+    </string-array>
+</resources>
