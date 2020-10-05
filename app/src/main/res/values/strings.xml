@@ -2,14 +2,14 @@
     <string name="app_name">rachitAssignment3</string>
     
     <string-array name="recipes">
-        <item>Recipe 1</item>
-        <item>Recipe 2</item>
-        <item>Recipe 3</item>
-        <item>Recipe 4</item>
-        <item>Recipe 5</item>
-        <item>Recipe 6</item>
-        <item>Recipe 7</item>
-        <item>Recipe 8</item>
+        <item>Mac n Cheese</item>
+        <item>Tuna Sandwich</item>
+        <item>Pineapple Pizza</item>
+        <item>Coleslaw</item>
+        <item>Plain Pasta</item>
+        <item>Veg Pasta</item>
+        <item>Nachos</item>
+        <item>Fish Tacos</item>
     </string-array>
     <string-array name="descriptions">
         <item>Recipe 1 - Description</item>
