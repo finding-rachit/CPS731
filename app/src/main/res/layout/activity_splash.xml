@@ -6,4 +6,20 @@
     android:layout_height="match_parent"
     tools:context=".Splash">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="244dp"
+        android:layout_height="530dp"
+        android:background="@drawable/music"
+        android:gravity="bottom"
+        android:text="Play Food Music"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.457"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.446"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
